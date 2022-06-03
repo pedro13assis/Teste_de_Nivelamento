@@ -7,7 +7,7 @@
 - Baixar os Anexos I ao Anexo IV;
 - Agrupar os anexos em um mesmo arquivo compactado (ZIP, RAR, ...).
 
-- Pasta _**Pratica_1** _
+- Pasta _**Pratica_1**_
  - **Teste foi realizado em python**
  - _Códigos estão brevemente comentados_
 
@@ -22,15 +22,15 @@
    - OD: Seg. Odontólogica   
    - AMB: Seg. Ambulatorial
 
-- Pasta _**Pratica_2** _
+- Pasta _**Pratica_2**_
  - **Teste foi realizado em python**
  - _Códigos estão brevemente comentados_
 
 ## Teste 3 - Banco de dados
 
 - Tarefas de Preparação (podem ser feitas manualmente):
-  -Baixar os arquivos dos últimos 2 anos no repositório público: http://ftp.dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/;
-  -Baixar csv anexo (Relatorio_cadop(1) (esta em anexo no e-mail)).
+  - Baixar os arquivos dos últimos 2 anos no repositório público: http://ftp.dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/;
+  - Baixar csv anexo (Relatorio_cadop(1) (esta em anexo no e-mail)).
 
 - Criar queries para criar tabelas com as colunas necessárias para o arquivo csv.
 - Queries de load: criar as queries para carregar o conteúdo dos arquivos obtidos nas tarefas de preparação
@@ -39,7 +39,7 @@
   - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último trimestre?
   - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último ano?
 
-- Pasta _**Projeto_3** _
+- Pasta _**Projeto_3**_
  - **Teste foi realizado com MySQL 8**
  - Tarefas de preparação feitas manualmente.(Obs os arquivos dos dois ultimos anos precisam ser baixados e adicionados a pasta BD)
  - _Códigos estão brevemente comentados_
