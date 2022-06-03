@@ -7,6 +7,7 @@
 - Baixar os Anexos I ao Anexo IV;
 - Agrupar os anexos em um mesmo arquivo compactado (ZIP, RAR, ...).
 
+- Pasta _**Pratica_1** _
  - **Teste foi realizado em python**
  - _Códigos estão brevemente comentados_
 
@@ -21,8 +22,8 @@
    - OD: Seg. Odontólogica   
    - AMB: Seg. Ambulatorial
 
+- Pasta _**Pratica_2** _
  - **Teste foi realizado em python**
-
  - _Códigos estão brevemente comentados_
 
 ## Teste 3 - Banco de dados
@@ -38,8 +39,8 @@
   - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último trimestre?
   - Quais as 10 operadoras que mais tiveram despesas com "EVENTOS/ SINISTROS CONHECIDOS OU AVISADOS  DE ASSISTÊNCIA A SAÚDE MEDICO HOSPITALAR" no último ano?
 
+- Pasta _**Projeto_3** _
  - **Teste foi realizado com MySQL 8**
-
  - _Códigos estão brevemente comentados_
  - Ordem de execução 
    - (criar_tabelas.sql -> carregar_tabelas.sql -> agrupamento_tabelas.sql -> ajuste_tabelas.sql)
