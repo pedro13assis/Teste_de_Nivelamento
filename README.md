@@ -8,7 +8,7 @@
 - Agrupar os anexos em um mesmo arquivo compactado (ZIP, RAR, ...).
 
  - **Teste foi realizado em python**
- - _Códigos estão brevemente comentados comentados_
+ - _Códigos estão brevemente comentados_
 
 
 ## Teste 2 - Transformação de dados
@@ -23,7 +23,7 @@
 
  - **Teste foi realizado em python**
 
- - _Códigos estão brevemente comentados comentados_
+ - _Códigos estão brevemente comentados_
 
 ## Teste 3 - Banco de dados
 
@@ -40,5 +40,5 @@
 
  - **Teste foi realizado com MySQL 8**
 
- - _Códigos estão brevemente comentados comentados_
+ - _Códigos estão brevemente comentados_
 
