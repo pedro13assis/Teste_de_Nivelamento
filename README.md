@@ -41,6 +41,7 @@
 
 - Pasta _**Projeto_3** _
  - **Teste foi realizado com MySQL 8**
+ - Tarefas de preparação feitas manualmente.(Obs os arquivos dos dois ultimos anos precisam ser baixados e adicionados a pasta BD)
  - _Códigos estão brevemente comentados_
  - Ordem de execução 
    - (criar_tabelas.sql -> carregar_tabelas.sql -> agrupamento_tabelas.sql -> ajuste_tabelas.sql)
