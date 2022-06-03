@@ -41,4 +41,8 @@
  - **Teste foi realizado com MySQL 8**
 
  - _Códigos estão brevemente comentados_
+ - Ordem de execução 
+   - (criar_tabelas.sql -> carregar_tabelas.sql -> agrupamento_tabelas.sql -> ajuste_tabelas.sql)
+   - -> ultimo_tri.sql
+   - -> ultimo_ano.sql
 
